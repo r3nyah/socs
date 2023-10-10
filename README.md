@@ -1,2 +1,1 @@
-# C-Journey
-A Journey about C programming language
+# SOCS1 Repo
